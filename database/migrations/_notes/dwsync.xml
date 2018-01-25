@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="2017_07_17_074306_create_posts_table.php" server="C:/wamp/www/blog/" local="131449941892039978" remote="131449941890000000" Dst="0" />
+<file name="2014_10_12_000000_create_users_table.php" server="C:/wamp/www/blog/" local="131444772210357899" remote="131444772210000000" Dst="0" />
+<file name="2014_10_12_100000_create_password_resets_table.php" server="C:/wamp/www/blog/" local="131444772210433196" remote="131444772210000000" Dst="0" />
+<file name="2017_07_27_073905_create_categories_table.php" server="C:/wamp/www/blog/" local="131456147459956615" remote="131456147450000000" Dst="0" />
+<file name="2017_07_27_075738_categoryId_for_post_table.php" server="C:/wamp/www/blog/" local="131456159421286055" remote="131456159420000000" Dst="0" />
+<file name="2017_08_01_020148_tag_table.php" server="C:/wamp/www/blog/" local="131460271447654452" remote="131460271440000000" Dst="0" />
+<file name="2017_08_01_021700_create_post_tag.php" server="C:/wamp/www/blog/" local="131460280810000000" remote="131460280810000000" Dst="0" />
+<file name="2017_08_07_022744_create_comments_table.php" server="C:/wamp/www/blog/" local="131465464647896028" remote="131465464640000000" Dst="0" />
+<file name="2017_08_16_114311_add_image_column_to_post.php" server="C:/wamp/www/blog/" local="131473287491876264" remote="131473287490000000" Dst="0" />
+<file name="2017_08_16_165258_add_user_id_column_to_post.php" server="C:/wamp/www/blog/" local="131473471782616504" remote="131473471780000000" Dst="0" />
+</dwsync>
